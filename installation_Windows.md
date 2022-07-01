@@ -20,7 +20,7 @@ wget https://repo.continuum.io/archive/Anaconda3-5.3.1-Linux-x86_64.sh
 bash Anaconda3-5.3.1-Linux-x86_64.sh
 ```
 
-# set default directory for wsl:
 ```
+# set default directory for wsl:
 echo "cd /mnt/d" >> ~/.bashrc
 ```
